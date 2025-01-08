@@ -6,6 +6,8 @@
 
 O Projeto consiste em fazer um CRUD simples de produtos em qualquer linguagem de programação. Como desejado, o projeto deve ter os campos exigidos e as funcionalidades de cadastro, listagem e ordenação dos produtos. 
 
+Acesse o projeto em: https://github.com/JotahIvo/DesafioOAK
+
 ## Front end
 
 Foi escolhido o framework React para o desenvolvimento do front end, pela sua facilidade de adicionar componentes na construção de uma interface e diversas funcionalidades que permitem um projeto mais simples e dinâmico.
@@ -30,7 +32,7 @@ Para rodarmos o projeto devemos ter o Node instalado em sua última versão e al
 ### 1° Clonar o repositório:
 
 ```bash
-$ git clone https://github.com/JotahIvo/CRM-S4Suprimentos.git
+$ git clone git@github.com:JotahIvo/DesafioOAK.git
 ```
 
 ### 2° Criar a venv e instalar as dependências:
